@@ -715,6 +715,7 @@
 
 
 ## Regular Expressions
+* [ExtendsClass](https://extendsclass.com/regex-tester.html) - Online visual regex tester
 * [Learn regex the Hard Way](http://regex.learncodethehardway.org/book/) - The hard way
 * [Refiddle](http://refiddle.com/) - Online, supports JavaScript, Ruby, and .NET only
 * [regex101](http://regex101.com/) - Online regex tester and debugger, supports multiple languages
